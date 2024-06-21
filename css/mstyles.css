@@ -1,0 +1,47 @@
+
+.boldheader {
+    font-size:xx-large;
+    font-weight: bold;  
+    font-display: center;
+    font-style: color(black)
+    
+  
+  }
+  
+  .boldsubheader{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    position: relative;
+    font-style: color(blue)
+  }
+  
+  .boldlist {
+    font-size: large;
+    font-weight: bold;
+    
+    font-style: color(black)
+  }
+  
+  .video-container{
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    height: 0;
+  
+  }
+  
+  
+  .video-container iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .contactbi{
+    background-image: url(../assets/network.jpg) ;
+    background-position: top right;
+  }
+  
